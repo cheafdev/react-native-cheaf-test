@@ -9,7 +9,7 @@ Get the project running on your local machine with these simple steps.
 ```bash
 # Clone the repository
 git clone <repository_url>
-cd frontend-test
+cd react-native-cheaf-test
 
 # Install dependencies using pnpm
 pnpm install
