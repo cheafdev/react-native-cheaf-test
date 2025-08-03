@@ -1,0 +1,104 @@
+{
+  "snacks": [
+    {
+      "id": "1",
+      "name": "Cosmic Crunch Tortilla Chips",
+      "price": 3.49,
+      "description": "Zesty lime-flavored chips that are out of this world.",
+      "category": "Chips",
+      "imageUrl": "https://placehold.co/600x400/2D3748/E2E8F0?text=Cosmic+Crunch",
+      "inStock": true,
+      "nutritionFacts": { "calories": 160, "fat": 9, "carbs": 18, "protein": 2 }
+    },
+    {
+      "id": "2",
+      "name": "Chewy Chocolate Nova Cookies",
+      "price": 2.99,
+      "description": "Soft-baked cookies with explosive chocolate chunks.",
+      "category": "Cookies",
+      "imageUrl": "https://placehold.co/600x400/4A5568/E2E8F0?text=Nova+Cookies",
+      "inStock": true,
+      "nutritionFacts": { "calories": 210, "fat": 11, "carbs": 26, "protein": 3 }
+    },
+    {
+      "id": "3",
+      "name": "Orion's Belt Gummy Rings",
+      "price": 2.29,
+      "description": "A constellation of fruity flavors in every bag.",
+      "category": "Candy",
+      "imageUrl": "https://placehold.co/600x400/667EEA/E2E8F0?text=Gummy+Rings",
+      "inStock": false,
+      "nutritionFacts": { "calories": 130, "fat": 0, "carbs": 32, "protein": 1 }
+    },
+    {
+      "id": "4",
+      "name": "Galactic Grape Soda",
+      "price": 1.99,
+      "description": "The fizziest grape soda in the entire galaxy.",
+      "category": "Drinks",
+      "imageUrl": "https://placehold.co/600x400/5A67D8/E2E8F0?text=Grape+Soda",
+      "inStock": true,
+      "nutritionFacts": { "calories": 150, "fat": 0, "carbs": 40, "protein": 0 }
+    },
+    {
+      "id": "5",
+      "name": "Terra Firma Veggie Sticks",
+      "price": 4.99,
+      "description": "A down-to-earth, crunchy, and healthy vegetable snack.",
+      "category": "Healthy",
+      "imageUrl": "https://placehold.co/600x400/38A169/E2E8F0?text=Veggie+Sticks",
+      "inStock": true,
+      "nutritionFacts": { "calories": 110, "fat": 4, "carbs": 15, "protein": 3 }
+    },
+    {
+      "id": "6",
+      "name": "Meteor-Might Meat Jerky",
+      "price": 6.99,
+      "description": "Spicy beef jerky with a powerful flavor impact.",
+      "category": "Healthy",
+      "imageUrl": "https://placehold.co/600x400/E53E3E/E2E8F0?text=Meat+Jerky",
+      "inStock": true,
+      "nutritionFacts": { "calories": 90, "fat": 2, "carbs": 3, "protein": 15 }
+    },
+    {
+      "id": "7",
+      "name": "Planetary Pretzels",
+      "price": 2.79,
+      "description": "Classic salted pretzels, twisted into fun planet shapes.",
+      "category": "Chips",
+      "imageUrl": "https://placehold.co/600x400/D69E2E/E2E8F0?text=Pretzels",
+      "inStock": true,
+      "nutritionFacts": { "calories": 120, "fat": 1, "carbs": 24, "protein": 3 }
+    },
+    {
+      "id": "8",
+      "name": "Stardust Sprinkled Donut",
+      "price": 1.79,
+      "description": "A fluffy donut coated in a vanilla glaze and edible glitter.",
+      "category": "Baked Goods",
+      "imageUrl": "https://placehold.co/600x400/ED64A6/E2E8F0?text=Donut",
+      "inStock": false,
+      "nutritionFacts": { "calories": 280, "fat": 15, "carbs": 35, "protein": 4 }
+    },
+    {
+      "id": "9",
+      "name": "Asteroid Cheddar Puffs",
+      "price": 3.19,
+      "description": "Light and airy cheese puffs that melt in your mouth.",
+      "category": "Chips",
+      "imageUrl": "https://placehold.co/600x400/DD6B20/E2E8F0?text=Cheddar+Puffs",
+      "inStock": true,
+      "nutritionFacts": { "calories": 140, "fat": 8, "carbs": 16, "protein": 2 }
+    },
+    {
+      "id": "10",
+      "name": "Zero-Gravity Green Tea",
+      "price": 2.49,
+      "description": "A calming green tea, feels like you're floating.",
+      "category": "Drinks",
+      "imageUrl": "https://placehold.co/600x400/48BB78/E2E8F0?text=Green+Tea",
+      "inStock": true,
+      "nutritionFacts": { "calories": 0, "fat": 0, "carbs": 0, "protein": 0 }
+    }
+  ]
+}
